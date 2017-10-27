@@ -11,7 +11,7 @@
             <key>kind</key>
             <string>software-package</string>
             <key>url</key>
-            <string>http://121.42.188.46/app/shenglu/slydbg.ipa</string>
+            <string>http://222.74.141.12:8010/shenglu/slydbg.ipa</string>
           </dict>
           <dict>
             <key>kind</key>
